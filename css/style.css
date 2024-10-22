@@ -1,0 +1,17 @@
+body{
+    font-family: "Playfair", serif;
+}
+.links ul li:hover{
+    text-decoration: underline;
+}
+.head a{
+   text-decoration: none;
+}
+.head a:hover{
+    text-decoration: underline;
+}
+@media (max-width:430px) {
+    .imge{
+       display: none;
+    }
+}
